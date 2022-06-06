@@ -48,10 +48,6 @@ I'm a web developer with over 8 years of experience. Start work at 2014 year. Mo
 
 <a href="http://www.github.com/livej0urnal"><img src="https://github-readme-stats.vercel.app/api?username=livej0urnal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="livej0urnal's GitHub stats" /></a>
 
-<a href="http://www.github.com/livej0urnal"><img src="https://activity-graph.herokuapp.com/graph?username=livej0urnal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/livej0urnal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livej0urnal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/anubis3009V"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
