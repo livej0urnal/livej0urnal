@@ -1,7 +1,7 @@
 Hi 👋 My name is Ihor Filippov
 ==============================
 
-FrontEnd/BackEnd Developer
+Frontend/Backend Developer
 --------------------------
 
 I'm a web developer with over 8 years of experience. Start work at 2014 year. More than 300+ completed projects. Like working with Yii2+ / Django frameworks.
