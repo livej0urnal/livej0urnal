@@ -9,7 +9,7 @@ I'm a web developer with over 8 years of experience. Start work at 2014 year. Mo
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [http://myprojects.company](https://myprojects.company/)
 * ✉️  You can contact me at [anubis3009@gmail.com](mailto:anubis3009@gmail.com)
-* 🚀  I'm currently working on [MyCube](http://mycube.com.ua)
+* 🚀  I'm currently working on [Charterclick company](https://charterclick.com)
 * 🧠  I'm learning Angular, React
 * 🤝  I'm open to collaborating on Yii2+ Framework
 * ⚡  Web Development and Fix some errors in your Projects
