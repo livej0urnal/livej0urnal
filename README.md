@@ -7,7 +7,7 @@ Fullstack web developer
 I'm a web developer with over 8 years of experience. Start work at 2014 year. More than 300+ completed projects. Like working with Yii2+ / Django frameworks.
 
 * 🌍  I'm based in Ukraine
-* 🖥️  See my portfolio at [https://freelancehunt.com/freelancer/igor\_f.html](http://about.me/ihorfilippov)
+* 🖥️  See my portfolio at [http://myprojects.company](https://myprojects.company/)
 * ✉️  You can contact me at [anubis3009@gmail.com](mailto:anubis3009@gmail.com)
 * 🚀  I'm currently working on [MyCube](http://mycube.com.ua)
 * 🧠  I'm learning Angular, React
