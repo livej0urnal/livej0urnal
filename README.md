@@ -1,4 +1,4 @@
-Hi 👋 My name is Ihor Filippov
+Hi 👋 My name is Igor Filippov
 ==============================
 
 Fullstack web developer
