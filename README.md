@@ -22,5 +22,5 @@ I'm a web developer with over 8 years of experience. Start work at 2014 year. Mo
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://yiiframework.com/" target="_blank" rel="noreferrer"><img src="https://www.yiiframework.com/image/logo.svg" width="100" height="45" alt="Yii" /></a>
+<a href="https://yiiframework.com/" target="_blank" rel="noreferrer"><img src="https://www.yiiframework.com/image/logo.svg" width="120" height="45" alt="Yii" /></a>
 </p>
