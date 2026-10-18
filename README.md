@@ -6,7 +6,6 @@ Full stack web developer
 
 I'm a web developer with over 11+ years of experience. Start work at 2014 year. More than 300+ completed projects. Like working with Yii2+ / Django frameworks.
 
-* 🖥️  See my portfolio at [http://myprojects.company](https://myprojects.company/)
 * ✉️  You can contact me at [anubis3009@gmail.com](mailto:anubis3009@gmail.com)
 * 🚀  I'm currently working on Charterclick company
 * 🧠  I'm learning Swift, Python, React, Flutter
